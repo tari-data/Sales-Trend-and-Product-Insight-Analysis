@@ -7,7 +7,7 @@ This report provides strategic insights into key sales and product performance m
 
 ---
 
-##❗ Problem Statement
+## ❗Problem Statement
 Despite overall growth in revenue and order volume, the business experiences significant product-level losses and uneven performance across customer segments. Total losses reached $94.57K, while several products continuously underperform, suggesting issues in inventory management, product-market fit, and customer targeting. This analysis explores both sales trends and product specific insights to uncover actionable steps that will help maximize profitability and minimize avoidable costs.
 
 ---
@@ -21,28 +21,27 @@ Despite overall growth in revenue and order volume, the business experiences sig
 
 ---
 
-💰 Sales Performance Highlights
-Metric	Insight
-Total Profit	$413.24K (+14.28% MoM)
-Net Profit	$316.74K (+13.36% MoM)
-Total Loss	⚠️ $94.57K (-17.49% MoM)
-Recurring Customers	6.11K (+11.86% MoM)
-Top Month for Profit	June: $42K
-Top Loss Products	Golden Blaze Necklace, Amethyst Echo Earrings
-Top Profit Products	Sterling Frost Earrings ($4.2K), Sterling Wave Earrings ($3.3K)
+ 💰 Sales Performance 
+- Total Profit:	$413.24K (+14.28% MoM)
+- Net Profit:	$316.74K (+13.36% MoM)
+- Total Loss:	⚠️ $94.57K (-17.49% MoM)
+- Recurring Customers:	6.11K (+11.86% MoM)
+- Top Month for Profit:	June ($42K)
+- Top Loss Products:	Golden Blaze Necklace, Amethyst Echo Earrings
+- Top Profit Products: Sterling Frost Earrings ($4.2K), Sterling Wave Earrings ($3.3K)
 
 💡 Insight: While overall profit and customer retention are rising, losses from specific products remain a major concern, highlighting inventory inefficiencies. The best-performing products reveal opportunities for expansion, whereas persistent underperformers strain resources.
 
+---
+
 📦 Product & Customer Trends
-Metric	Insight
-Average Units per Order	5.46 (+0.30% MoM)
-Total Orders	13.80K (+13.13% MoM)
-Quantity Sold	75.36K (+13.47% MoM)
-Sales by Segment	Consumer (59.13%)
-Corporate (8.22%)
-Self-Employed (32.64%)
-Bottom Selling Products	Amethyst and Anastasia products dominate bottom ranks
-Top Categories	Body Care (30.6%), Home & Accessories, Make-up, Hair Care
+
+- Average Units per Order:	5.46 (+0.30% MoM)
+- Total Orders:	13.80K (+13.13% MoM)
+- Quantity Sold:	75.36K (+13.47% MoM)
+- Sales by Segment:	Consumer (59.13%), Corporate (8.22%), Self-Employed (32.64%)
+- Bottom Selling Products:	Amethyst and Anastasia products dominate bottom ranks
+- Top Categories:	Body Care (30.6%), Home & Accessories, Make-up, Hair Care
 
 💡 Insight: The Consumer segment leads sales volume, but Corporate and Self-Employed groups remain underleveraged. Body care dominates category sales, suggesting strong brand or market alignment. However, repeated poor performance by certain SKUs indicates the need for deeper portfolio reviews.
 
@@ -76,7 +75,8 @@ Top Categories	Body Care (30.6%), Home & Accessories, Make-up, Hair Care
 The dashboard reveals positive momentum in profit and sales volume, but also uncovers product-level inefficiencies and customer segment imbalance. To maintain growth, the business must prioritize loss control, portfolio cleanup, and segment expansion. With these interventions, DAMP Sales can transition from reactive inventory management to a data-driven, growth-focused model.
 
 ---
-🛠️ Tools Used
+
+## 🛠️ Tools Used
 Power BI
 
 Slicers for segment/category filtering
