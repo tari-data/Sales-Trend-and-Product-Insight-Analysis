@@ -2,16 +2,25 @@
 
 ---
 
-📌 Overview
+## 📌 Overview
 This report provides strategic insights into key sales and product performance metrics to identify profit drivers, loss-making products, and opportunities for business optimization. The purpose is to support data-driven decisions that enhance profitability, reduce waste, and expand market reach across product segments.
 
-❗ Problem Statement
+---
+
+##❗ Problem Statement
 Despite overall growth in revenue and order volume, the business experiences significant product-level losses and uneven performance across customer segments. Total losses reached $94.57K, while several products continuously underperform, suggesting issues in inventory management, product-market fit, and customer targeting. This analysis explores both sales trends and product specific insights to uncover actionable steps that will help maximize profitability and minimize avoidable costs.
+
+---
 
 📊 Power BI Dashboard
 🔗 Click here to view the Interactive Dashboard
 
-📈 Dashboard Analysis Summary
+---
+
+## 📈 Dashboard Analysis Summary
+
+---
+
 💰 Sales Performance Highlights
 Metric	Insight
 Total Profit	$413.24K (+14.28% MoM)
@@ -37,7 +46,9 @@ Top Categories	Body Care (30.6%), Home & Accessories, Make-up, Hair Care
 
 💡 Insight: The Consumer segment leads sales volume, but Corporate and Self-Employed groups remain underleveraged. Body care dominates category sales, suggesting strong brand or market alignment. However, repeated poor performance by certain SKUs indicates the need for deeper portfolio reviews.
 
-✅ Recommendations
+---
+
+## ✅ Recommendations
 💼 1. Reduce Product Loss
 🧾 High-loss items like Golden Blaze Necklace and Amethyst Echo Earrings need review. Consider discount strategies, supplier renegotiation, or discontinuation to prevent further drain on profit.
 
@@ -59,9 +70,12 @@ Top Categories	Body Care (30.6%), Home & Accessories, Make-up, Hair Care
 🛍️ 7. Targeted Category Expansion
 💡 With Body Care leading by sales share, explore new SKUs or bundles in that category based on customer preferences. Run A/B testing for new product launches in related categories.
 
-📌 Conclusion
+---
+
+## 📌 Conclusion
 The dashboard reveals positive momentum in profit and sales volume, but also uncovers product-level inefficiencies and customer segment imbalance. To maintain growth, the business must prioritize loss control, portfolio cleanup, and segment expansion. With these interventions, DAMP Sales can transition from reactive inventory management to a data-driven, growth-focused model.
 
+---
 🛠️ Tools Used
 Power BI
 
@@ -70,3 +84,5 @@ Slicers for segment/category filtering
 Custom charts & line graphs
 
 Power Query for transformation logic
+
+---
