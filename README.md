@@ -1,4 +1,7 @@
-🛍️ Retail Sales & Product Performance Analysis
+# 🛍️ Retail Sales & Product Performance Analysis
+
+---
+
 📌 Overview
 This report provides strategic insights into key sales and product performance metrics to identify profit drivers, loss-making products, and opportunities for business optimization. The purpose is to support data-driven decisions that enhance profitability, reduce waste, and expand market reach across product segments.
 
