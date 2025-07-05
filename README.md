@@ -13,7 +13,8 @@ Despite overall growth in revenue and order volume, the business experiences sig
 ---
 
 📊 Power BI Dashboard
-🔗 Click here to view the Interactive Dashboard
+🔗 [View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjRmNTg1YTMtNTJhNC00MjA4LWE0OTgtNDcxYTVmNmQxNWUxIiwidCI6IjVkOWEzNTAwLWRkMjAtNDBhYi1iMTg3LTVhYmE3YTliZGVjNyJ9)
+
 
 ---
 
